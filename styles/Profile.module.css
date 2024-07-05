@@ -1,0 +1,21 @@
+/* Profile.module.css */
+.profileContainer {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f4f4f4; /* Fondo gris claro */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Sombra ligera */
+  }
+  
+  .profileHeader {
+    margin-bottom: 20px;
+  }
+  
+  .profileField {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #333; /* Texto oscuro para mejor contraste */
+  }
+  
